@@ -1,7 +1,7 @@
 from math import sqrt, acos, pi
 from decimal import Decimal, getcontext
 
-getcontext().prec = 30
+getcontext().prec = 45
 
 class Vector(object):
 
